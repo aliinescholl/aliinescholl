@@ -13,7 +13,7 @@
   </h2>
  <br><br>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliinescholl&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliinescholl&layout=compact&show_icons=true&theme=transparent)
 
   
 <!--
