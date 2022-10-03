@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"
 
   </h2>
+ <br><br>  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliinescholl&layout=compact&show_icons=true&theme=tokyonight)
+
+  
 <!--
 **aliinescholl/aliinescholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
