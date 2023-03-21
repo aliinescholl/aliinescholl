@@ -1,5 +1,13 @@
 <h1 align="center">Aline Scholl Santos</h1>
-<h2 align="center"> My Current Stack <br><br>
+<p>Seja bem vindo ao meu GitHub! Caso não me conheça aqui vão algumas das minhas qualificações: </p>
+<ul>
+  <li>Tenho ensino médio completo com técnico em informática que fiz no IFC;</li>
+  <li>Durante o ensino médio aprendi a base de Python3, HTML, CSS e JS;</li>
+  <li>Conclui o curso de Desenvolvedor Delphi da Devs2Blu de 480hs;</li>
+  <li>Tenho conhecimento em Sistema ERP que adquiri durante meu último emprego como Assistente de Suporte ao Usuário.</li>
+</ul>
+
+<h2 align="center"> Minhas Stacks atuais <br><br>
 <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -17,17 +25,3 @@
 
 
 ![Snake animation](https://github.com/Aliinescholl/Aliinescholl/blob/output/github-contribution-grid-snake.svg)
-<!--
-**aliinescholl/aliinescholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
