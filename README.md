@@ -9,16 +9,37 @@
 
 ### 💁‍♀️ Sobre mim
 
-Sou uma desenvolvedora Full Stack Júnior com foco em tecnologias como ASP .NET Core no backend e Vue.js no frontend. Atualmente trabalho na Pilar Sistemas, desenvolvendo soluções web para o setor financeiro. Tenho experiência com integração de APIs, desenvolvimento de interfaces modernas com Vuetify, e versionamento com Git. Estou sempre em busca de evolução técnica e profissional, contribuindo com projetos inovadores e de impacto!
+Sou uma desenvolvedora Full Stack Júnior com foco em tecnologias como ASP .NET Core no backend e Vue.js no frontend. Atualmente trabalho na Pilar Sistemas, desenvolvendo soluções web para o setor financeiro. Tenho experiência com integração de APIs (incluindo serviços de pagamento), desenvolvimento de interfaces modernas com Vuetify, e versionamento com Git. Estou sempre em busca de evolução técnica e profissional, contribuindo com projetos inovadores e de impacto!
 
 ---
 
 ### 🧠 Techs que eu uso
 
-- **Backend:** ASP .NET Core, Entity Framework, C#
-- **Frontend:** Vue.js, Vuetify, TypeScript
-- **Banco de dados:** PostgreSQL
-- **Outros:** Git, Quartz, UniGUI, StartTeam
+#### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+#### 🛢️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+#### 🛠️ Outros
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Quartz-1C1C1C?style=for-the-badge&logoColor=white" alt="Quartz" />
+  <img src="https://img.shields.io/badge/UniGUI-0080C0?style=for-the-badge&logo=delphi&logoColor=white" alt="UniGUI" />
+</p>
 
 ---
 
