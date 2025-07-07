@@ -43,20 +43,9 @@ Sou uma desenvolvedora Full Stack Júnior com foco em tecnologias como ASP .NET 
 
 ---
 
-### ✨ Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Sistema Financeiro Interno](#) | Desenvolvimento de sistema web interno para área financeira da empresa. | ASP .NET Core, Vue.js, PostgreSQL |
-| [Ferramenta ERP (Delphi)](#) | Funcionalidades e correções em ERP, incluindo criação de tabelas e telas. | Delphi, UniGUI, PostgreSQL |
-| [Projeto Acadêmico IFSC](#) | Em andamento com foco em boas práticas de desenvolvimento web. | HTML, CSS, JavaScript, C# |
-
----
-
 ### 🎓 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – IFSC (cursando)
-- 🖥️ **Curso Desenvolvedor Delphi** – Proway
 - 🧑‍💻 **Técnico em Informática** – IFC Blumenau
 
 ---
