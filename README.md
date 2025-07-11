@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou a Aline Scholl Santos!</h1>
 
 <p align="center">
-  💻 Desenvolvedora Full Stack Júnior • ASP .NET Core | Vue.js • Blumenau - SC <br/>
+  💻 Desenvolvedora Full Stack Júnior | C# | ASP .NET | Vue.js • Blumenau - SC <br/>
   🚀 Focada em criar soluções eficientes com código limpo e escalável <br/>
 </p>
 
