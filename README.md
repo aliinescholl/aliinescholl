@@ -9,7 +9,7 @@
 
 ### 💁‍♀️ Sobre mim
 
-Sou uma desenvolvedora Full Stack Júnior com foco em tecnologias como ASP .NET Core no backend e Vue.js no frontend. Atuei na Pilar Sistemas desenvolvendo soluções web para o setor financeiro. Tenho experiência com integração de APIs (incluindo serviços de pagamento), desenvolvimento de interfaces modernas com Vuetify e versionamento com Git. Estou em busca de novas oportunidades para continuar evoluindo técnica e profissionalmente, contribuindo com projetos inovadores e de impacto!
+Desenvolvedora Full Stack com experiência em tecnologias como Asp .NET Core, Entity Framework, Vue.js e TypeScript. Atuei no desenvolvimento de sistemas web para o setor financeiro, desde a criação de interfaces com Vuetify até a implementação do backend e gerenciamento de banco de dados com PostgreSQL. Possuo experiência em todo o ciclo de desenvolvimento, incluindo versionamento com Git, builds e deploys.
 
 ---
 
