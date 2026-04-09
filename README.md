@@ -8,7 +8,7 @@
 
 ### 💁‍♀️ Sobre mim
 
-Desenvolvedora Full Stack com 2 anos de experiência em tecnologias como Asp .NET Core, Entity Framework, Vue.js e TypeScript. Atuei no desenvolvimento de sistemas web para o setor financeiro, desde a criação de interfaces com Vuetify até a implementação do backend e gerenciamento de banco de dados com PostgreSQL. Atualmente trabalho no desenvolvimento de um sistema  jurídico consolidado e de larga escala.
+Desenvolvedora Full Stack com 3 anos de experiência em tecnologias como Asp .NET Core, Entity Framework, Vue.js e TypeScript. Atuei no desenvolvimento de sistemas web para o setor financeiro, desde a criação de interfaces com Vuetify até a implementação do backend e gerenciamento de banco de dados com PostgreSQL. Atualmente trabalho no desenvolvimento de um sistema  jurídico consolidado e de larga escala.
 
 ---
 
